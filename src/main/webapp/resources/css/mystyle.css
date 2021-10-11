@@ -1,0 +1,70 @@
+.col {
+
+	background-color: #888888;
+	height: 5em;
+	border: 1px solid white;
+	margin-bottom: 1px;
+	text-align: center;
+}
+
+.empty {
+
+	background-color: #4682B4;
+	height: 5em;
+	border: 1px solid white;
+	margin-bottom: 1px;
+	text-align: center;
+}
+
+.col1 {
+
+	background-color: green;
+	height: 5em;
+	border: 1px solid white;
+	margin-bottom: 1px;
+	text-align: center;
+}
+
+.col2 {
+	background-color: blue;
+	height: 5em;
+	border: 1px solid white;
+	margin-bottom: 1px;
+	text-align: center;
+}
+
+.col3 {
+	background-color: red;
+	height: 5em;
+	border: 1px solid white;
+	margin-bottom: 1px;
+	text-align: center;
+}
+
+h4, h5 {
+	color: #F8F8F8;
+}
+
+ul li {
+	font-size: 88%;
+	list-style-type: none;
+	color: #F8F8F8;
+}
+
+ul {
+	padding: 0em;
+}
+
+#directLogin {
+	position: absolute;
+	top: 4.2em;
+	display: none;
+	overflow: auto;
+	z-index: 1;
+	overflow: auto;
+}
+
+a:hover {
+	cursor: pointer;
+	font-weight: bold;
+}
